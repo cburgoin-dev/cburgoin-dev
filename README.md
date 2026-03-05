@@ -19,7 +19,7 @@ Java • Python • JavaScript • SQL • HTML • CSS
 MySQL • MVC • DAO Pattern • REST APIs  
 
 **Other Skills:**  
-Git • GitHub • Responsive Design • Postman • Unity • Problem Solving (300+ LeetCode)
+Git • GitHub • Responsive Design • Postman • Unity • Problem Solving (400+ LeetCode)
 
 ---
 
