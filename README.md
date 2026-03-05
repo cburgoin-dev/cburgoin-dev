@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cristian Burgoin
 
-🎓 **Software Development Engineering student** (5th semester)  
+🎓 **Software Development Engineering student** (6th semester)  
 💻 **Backend-focused developer** — Java (OOP), Python, SQL  
 🌐 Passionate about building **clean, functional and educational software**  
 📚 Constantly improving in **data structures, algorithms and problem solving**  
