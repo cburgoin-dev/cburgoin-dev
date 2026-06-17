@@ -76,7 +76,6 @@ Projects include:
 
 ### Backend
 - REST APIs
-- Laravel
 - Node.js
 - Express.js
 
