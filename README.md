@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Cristian Burgoin
 
-Software Engineering student and developer focused on mobile applications, backend systems, and applied artificial intelligence.
+Software Engineer focused on mobile development, backend systems, and applied artificial intelligence.
 
-I enjoy building practical software solutions that combine clean architecture, user-centered design, and real-world problem solving.
+I enjoy building software that solves real-world problems through clean architecture, maintainable design, and practical engineering.
 
 🌐 Portfolio: https://cristianburgoin.dev
 
@@ -10,40 +10,35 @@ I enjoy building practical software solutions that combine clean architecture, u
 
 ## 🚀 Featured Projects
 
-### 🌊 Turismo La Paz
+### 🌴 Turismo La Paz
 
-Mobile application designed to help residents and visitors discover tourist attractions in La Paz, Baja California Sur.
+Mobile tourism application presented to representatives of the La Paz City Hall and Municipal Tourism Department.
 
-**Tech:** React Native • Expo • TypeScript • Geolocation
+**Stack:** React Native • TypeScript • Expo • Geolocation
 
 ---
 
-### 🔍 Lost & Found UABCS
+### 📱 Lost & Found UABCS
 
-Collaborative academic mobile application for reporting, searching, and recovering lost items within the university community.
+Mobile application for reporting and recovering lost items within the university community.
 
-**Tech:** Kotlin • Jetpack Compose • Retrofit • Laravel REST API
+**Stack:** Kotlin • Jetpack Compose • Retrofit • Laravel
 
 ---
 
 ### 🏨 Hotel Reservation API
 
-Backend REST API focused on authentication, reservation management, and business rule enforcement.
+REST API for hotel reservation management featuring JWT authentication and layered architecture.
 
-**Tech:** Java • MySQL • JWT
+**Stack:** Java • MySQL • JWT
 
 ---
 
-### 🤖 AI Research Projects (LIDIAIR)
+### 🤖 LIDIAIR Research Projects
 
-Research-oriented applications involving:
+Computer vision and AI applications including fruit detection and real-time emotion recognition.
 
-* Fruit detection and classification
-* Facial emotion recognition
-* Computer vision workflows
-* Experimental AI evaluation
-
-**Tech:** Python • OpenCV • TensorFlow • Keras
+**Stack:** Python • OpenCV • TensorFlow • Keras
 
 ---
 
@@ -77,7 +72,7 @@ Git • GitHub • Postman • Linux
 
 ## 🎓 Education
 
-**B.S. in Software Development**
+**B.S. in Software Development Engineering**
 Universidad Autónoma de Baja California Sur (UABCS)
 2023 – Present
 
@@ -85,30 +80,23 @@ Academic Excellence Recognition Recipient
 
 ---
 
-## 🌐 Portfolio
-
-https://cristianburgoin.dev
-
----
-
-## 📫 Connect With Me
+## 📫 Connect
 
 📧 [cristian.burgoin.dev@gmail.com](mailto:cristian.burgoin.dev@gmail.com)
 
 💼 LinkedIn
 https://linkedin.com/in/cristian-burgoin
 
-🐙 GitHub
-https://github.com/cburgoin-dev
+🌐 Portfolio
+https://cristianburgoin.dev
 
 ---
 
-## Currently Exploring
+### Currently Exploring
 
 * Backend Engineering
 * Software Architecture
 * Mobile Development
-* Distributed Systems
 * Applied Artificial Intelligence
 
 ---
