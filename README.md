@@ -1,147 +1,116 @@
 # 👋 Hi, I'm Cristian Burgoin
 
-Software Engineer from Mexico focused on building mobile applications, backend systems, and applied AI solutions.
+Software Engineering student and developer focused on mobile applications, backend systems, and applied artificial intelligence.
 
-I enjoy transforming ideas into real products through clean architecture, scalable design, and practical engineering. My experience includes academic, personal, and research projects involving mobile development, backend systems, and computer vision applications.
+I enjoy building practical software solutions that combine clean architecture, user-centered design, and real-world problem solving.
 
----
-
-## 🚀 Featured Work
-
-### 📱 Lost & Found UABCS
-Collaborative academic project developed to manage lost and found items within the university.
-
-- Developed using Kotlin and Jetpack Compose.
-- Implemented most of the mobile frontend.
-- Integrated backend services through Retrofit.
-- Worked with a Laravel REST API and AWS S3 image storage.
-- Participated in requirements analysis, database design, and technical documentation.
-- Collaborated in a team of four developers using Git and GitHub.
-
-**Tech Stack:** Kotlin • Jetpack Compose • Retrofit • Laravel • AWS S3
+🌐 Portfolio: https://cristianburgoin.dev
 
 ---
 
-### 🌴 Turismo La Paz
-Mobile application presented to representatives of the La Paz City Hall and the Municipal Tourism Department as a technology proposal for the local tourism sector.
+## 🚀 Featured Projects
 
-- Centralized more than 40 tourist points of interest.
-- Implemented geolocation and real-time distance calculations.
-- Included filtering by experience type and beach category.
-- Designed with scalability and user experience in mind.
+### 🌊 Turismo La Paz
 
-**Tech Stack:** React Native • TypeScript • Expo • Geolocation
+Mobile application designed to help residents and visitors discover tourist attractions in La Paz, Baja California Sur.
+
+**Tech:** React Native • Expo • TypeScript • Geolocation
 
 ---
 
-### 🏨 Hotel Reservation System
-Backend application designed to manage reservations, guests, rooms, and availability.
+### 🔍 Lost & Found UABCS
 
-- Designed and implemented a REST API.
-- Applied object-oriented principles and modular architecture.
-- Developed reservation validation and availability calculation logic.
-- Focused on maintainability through clean code practices.
+Collaborative academic mobile application for reporting, searching, and recovering lost items within the university community.
 
-**Tech Stack:** Java • MySQL • REST APIs
+**Tech:** Kotlin • Jetpack Compose • Retrofit • Laravel REST API
 
 ---
 
-### 🤖 LIDIAIR Research Projects
-Software Developer at the Artificial Intelligence and Robotics Research Laboratory (LIDIAIR), UABCS.
+### 🏨 Hotel Reservation API
 
-Projects include:
+Backend REST API focused on authentication, reservation management, and business rule enforcement.
 
-- Fruit detection and classification using computer vision.
-- Emotion recognition through facial expression analysis.
-- Dataset preparation, validation, and evaluation workflows.
-- Presentation of research projects at institutional exhibitions.
+**Tech:** Java • MySQL • JWT
 
-**Tech Stack:** Python • OpenCV • TensorFlow • Keras
+---
+
+### 🤖 AI Research Projects (LIDIAIR)
+
+Research-oriented applications involving:
+
+* Fruit detection and classification
+* Facial emotion recognition
+* Computer vision workflows
+* Experimental AI evaluation
+
+**Tech:** Python • OpenCV • TensorFlow • Keras
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- Java
-- Python
-- Kotlin
-- TypeScript
-- JavaScript
+
+Java • Python • Kotlin • TypeScript • JavaScript
 
 ### Mobile Development
-- Jetpack Compose
-- React Native
-- Expo
+
+Jetpack Compose • React Native • Expo
 
 ### Backend
-- REST APIs
-- Node.js
-- Express.js
+
+REST APIs • Node.js • Express
 
 ### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
+
+MySQL • PostgreSQL • MongoDB
 
 ### AI & Computer Vision
-- OpenCV
-- TensorFlow
-- Keras
+
+OpenCV • TensorFlow • Keras
 
 ### Tools
-- Git
-- GitHub
-- Postman
-- Linux
+
+Git • GitHub • Postman • Linux
 
 ---
 
 ## 🎓 Education
 
-**Bachelor's Degree in Software Development**  
-Universidad Autónoma de Baja California Sur (UABCS)  
+**B.S. in Software Development**
+Universidad Autónoma de Baja California Sur (UABCS)
 2023 – Present
 
-- GPA: **99/100**
-- First and second place academic excellence recognitions throughout the degree.
-- Training in software engineering, systems architecture, data structures, databases, and mobile/backend development.
+Academic Excellence Recognition Recipient
 
 ---
 
 ## 🌐 Portfolio
 
-Portfolio website currently under active development.
-
-**Current:**
-- https://cburgoin-dev.github.io/portfolio
-
-**Future domain:**
-- https://cristianburgoin.dev
+https://cristianburgoin.dev
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email:  
-**cristian.burgoin.dev@gmail.com**
+📧 [cristian.burgoin.dev@gmail.com](mailto:cristian.burgoin.dev@gmail.com)
 
-💼 LinkedIn:  
-**https://linkedin.com/in/cristian-burgoin**
+💼 LinkedIn
+https://linkedin.com/in/cristian-burgoin
 
-🐙 GitHub:  
-**https://github.com/cburgoin-dev**
+🐙 GitHub
+https://github.com/cburgoin-dev
 
 ---
 
 ## Currently Exploring
 
-- Software architecture and scalable design
-- Building production-like applications
-- Mobile development with modern frameworks
-- Backend engineering best practices
-- Applied artificial intelligence solutions
+* Backend Engineering
+* Software Architecture
+* Mobile Development
+* Distributed Systems
+* Applied Artificial Intelligence
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore my repositories, connect on LinkedIn, or reach out. I'm always open to learning, collaboration, and new opportunities.
+⭐ Feel free to explore my repositories, connect on LinkedIn, or reach out for collaboration opportunities.
